@@ -152,7 +152,7 @@
     .logo img{
         padding-left: 10px;}
     .top{height: auto;}   
-      .nav1{float: right;padding-right: 20px;}
+      .nav1{float: right;padding-right: 20px;display:block;}
       /* Show Hamburger Icon */
       #hamnav label { 
         display:inline-block; 
